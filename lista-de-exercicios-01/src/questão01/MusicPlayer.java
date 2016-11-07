@@ -15,14 +15,17 @@ public class MusicPlayer {
 	
 	public void play(){
 		displayDataOfMusic();
+		
 	}
 	
 	private void displayDataOfMusic() {
 		Music atual = musics.get(atualMusic);
+		System.out.println("Tocando");
 		System.out.println(atual.getName());
 		System.out.println(atual.getArtist());
 		System.out.println(atual.getAlbum());
 		System.out.println(atual.getDuration());
+		System.out.println("--------------");
 	}
 	
 	public void pause(){
