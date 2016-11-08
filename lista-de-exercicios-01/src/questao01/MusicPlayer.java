@@ -1,4 +1,4 @@
-package questão01;
+package questao01ï¿½o01;
 
 import java.util.List;
 import java.util.Random;
@@ -33,7 +33,7 @@ public class MusicPlayer {
 	}
 	
 	public void stop(){
-		System.out.println("Parado. Voltara da primeira música");
+		System.out.println("Parado. Voltara da primeira mï¿½sica");
 		this.atualMusic = 0;
 	}
 	
@@ -61,11 +61,11 @@ public class MusicPlayer {
 	}
 	
 	public void reapeatAtualMusic(){
-		System.out.println("Repitindo música atual");
+		System.out.println("Repitindo mï¿½sica atual");
 	}
 	
 	public void reapeatAllMusics(){
-		System.out.println("Repetindo todas as músicas");
+		System.out.println("Repetindo todas as mï¿½sicas");
 	}
 	
 	public void playRamdom(){

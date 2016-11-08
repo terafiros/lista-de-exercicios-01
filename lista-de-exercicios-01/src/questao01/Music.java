@@ -1,4 +1,4 @@
-package questão01;
+package questao01;
 
 public class Music {
 	
