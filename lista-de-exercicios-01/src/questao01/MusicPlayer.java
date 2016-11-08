@@ -1,4 +1,4 @@
-package questao01�o01;
+package questao01;
 
 import java.util.List;
 import java.util.Random;
