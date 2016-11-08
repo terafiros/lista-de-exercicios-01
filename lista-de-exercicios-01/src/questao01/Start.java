@@ -1,4 +1,4 @@
-package questao01�o01;
+package questao01;
 
 import java.util.ArrayList;
 import java.util.Arrays;
